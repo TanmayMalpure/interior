@@ -11,13 +11,13 @@ export const siteConfig = {
   companyNameSuffix: companyName.split(" ").slice(1).join(" ").toUpperCase(),
   domain,
   email: `hello@${domain}.com`,
-  phone: "+91 1234567890",
+  phone: "+91 97660 45538",
   phoneRaw: "911234567890",
   address: {
-    street: "Mathura Design Studio",
-    city: "Chennai",
-    state: "",
-    zip: "400050",
+    street: "Align Interiors",
+    city: "Pune",
+    state: "Maharashtra",
+    zip: "411004",
     country: "IN",
   },
   social: {
@@ -25,9 +25,9 @@ export const siteConfig = {
     instagram: {
       profile: `https://instagram.com/`,
       posts: [
-        "https://www.instagram.com/p/DBIkoc4SXFi/embed",
-        "https://www.instagram.com/p/DW1cQ5cEy8r/embed",
-        "https://www.instagram.com/p/DTKHuC5kyNI/embed",
+        "https://www.instagram.com/p/DbACDxvlL4k/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/p/DcAZ8BMlOmH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/p/DTKHuC5kyNI/embedhttps://www.instagram.com/p/DbFLrJ_lFUq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
       ],
     },
   },
