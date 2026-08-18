@@ -1,4 +1,4 @@
-const companyName = "Math";
+const companyName = "Align Interiors";
 
 const domain = companyName
   .toLowerCase()
