@@ -1,4 +1,4 @@
-const companyName = "Align Interiors";
+const companyName = "Studio Well Well";
 
 const domain = companyName
   .toLowerCase()
@@ -14,7 +14,7 @@ export const siteConfig = {
   phone: "+91 97660 45538",
   phoneRaw: "911234567890",
   address: {
-    street: "Align Interiors",
+    street: "Studio Well Well",
     city: "Pune",
     state: "Maharashtra",
     zip: "411004",
@@ -23,11 +23,11 @@ export const siteConfig = {
   social: {
     twitter: `@${domain}`,
     instagram: {
-      profile: `https://instagram.com/`,
+      profile: `https://www.instagram.com/studiowellwall?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==`,
       posts: [
-        "https://www.instagram.com/p/DbFLrJ_lFUq/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==",
-        "https://www.instagram.com/p/DcAZ8BMlOmH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "https://www.instagram.com/p/DTKHuC5kyNI/embedhttps://www.instagram.com/p/DbFLrJ_lFUq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/p/DFF9e7GxYrj/embed",
+        "https://www.instagram.com/reel/DY2DlxkIDPR/embed",
+        "https://www.instagram.com/reel/DW_jTk_DrAj/embed",
       ],
     },
   },
