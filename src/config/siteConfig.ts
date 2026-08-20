@@ -23,7 +23,7 @@ export const siteConfig = {
   social: {
     twitter: `@${domain}`,
     instagram: {
-      profile: `https://www.instagram.com/studiowellwall?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==`,
+      profile: `https://www.instagram.com/one_edge_designs?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==`,
       posts: [
         "https://www.instagram.com/p/Dbx6hrzoy0Y/embed",
         "https://www.instagram.com/p/DaPRedeE5rI/embed",
