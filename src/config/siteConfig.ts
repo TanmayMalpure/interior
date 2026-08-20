@@ -1,4 +1,4 @@
-const companyName = "Studio Well Well";
+const companyName = "One Edge Designs";
 
 const domain = companyName
   .toLowerCase()
@@ -14,7 +14,7 @@ export const siteConfig = {
   phone: "+91 97660 45538",
   phoneRaw: "911234567890",
   address: {
-    street: "Studio Well Well",
+    street: "One Edge Designs",
     city: "Pune",
     state: "Maharashtra",
     zip: "411004",
@@ -25,9 +25,9 @@ export const siteConfig = {
     instagram: {
       profile: `https://www.instagram.com/studiowellwall?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==`,
       posts: [
-        "https://www.instagram.com/p/DFF9e7GxYrj/embed",
-        "https://www.instagram.com/reel/DY2DlxkIDPR/embed",
-        "https://www.instagram.com/reel/DW_jTk_DrAj/embed",
+        "https://www.instagram.com/p/Dbx6hrzoy0Y/embed",
+        "https://www.instagram.com/p/DaPRedeE5rI/embed",
+        "https://www.instagram.com/p/DVlWH8gEwwe/embed",
       ],
     },
   },
