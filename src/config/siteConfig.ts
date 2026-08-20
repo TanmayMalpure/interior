@@ -27,7 +27,7 @@ export const siteConfig = {
       posts: [
         "https://www.instagram.com/p/Dbx6hrzoy0Y/embed",
         "https://www.instagram.com/p/DaPRedeE5rI/embed",
-        "https://www.instagram.com/p/DVlWH8gEwwe/embed",
+        "https://www.instagram.com/p/DLL4EfjhgLZ/embed",
       ],
     },
   },
