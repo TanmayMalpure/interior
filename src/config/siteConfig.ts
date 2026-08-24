@@ -36,3 +36,4 @@ export const siteConfig = {
   shortDescription: "Premium interior design studio specializing in residential interiors, modular kitchens, office design, and turnkey solutions.",
   foundedYear: "2019",
 };
+
