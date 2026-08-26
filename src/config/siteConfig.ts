@@ -1,4 +1,4 @@
-const companyName = "One Edge Designs";
+const companyName = "elite interior design";
 
 const domain = companyName
   .toLowerCase()
@@ -11,10 +11,10 @@ export const siteConfig = {
   companyNameSuffix: companyName.split(" ").slice(1).join(" ").toUpperCase(),
   domain,
   email: `hello@${domain}.com`,
-  phone: "+91 97660 45538",
-  phoneRaw: "911234567890",
+  phone: "+91 89832 83115",
+  phoneRaw: "+91 1234567890",
   address: {
-    street: "One Edge Designs",
+    street: "Elite Interior Design",
     city: "Pune",
     state: "Maharashtra",
     zip: "411004",
@@ -23,11 +23,11 @@ export const siteConfig = {
   social: {
     twitter: `@${domain}`,
     instagram: {
-      profile: `https://www.instagram.com/one_edge_designs?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==`,
+      profile: `https://www.instagram.com/eliteinteriorsindia?igsi=MTMyZXNic2Nwcjlydw==`,
       posts: [
-        "https://www.instagram.com/p/Dbx6hrzoy0Y/embed",
-        "https://www.instagram.com/p/DaPRedeE5rI/embed",
-        "https://www.instagram.com/reel/DTKFj-IklK_/embed",
+        "https://www.instagram.com/reel/DaXwN1ZBD2U/embed",
+        "https://www.instagram.com/reel/DY9khlRgW-M/embed",
+        "https://www.instagram.com/reel/DYo8t2XNAjq/embed",
       ],
     },
   },
