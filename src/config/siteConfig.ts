@@ -1,4 +1,4 @@
-const companyName = "elite interior design";
+const companyName = "IDS Interiors";
 
 const domain = companyName
   .toLowerCase()
@@ -11,10 +11,10 @@ export const siteConfig = {
   companyNameSuffix: companyName.split(" ").slice(1).join(" ").toUpperCase(),
   domain,
   email: `hello@${domain}.com`,
-  phone: "+91 89832 83115",
+  phone: "+91 1234567890",
   phoneRaw: "+91 1234567890",
   address: {
-    street: "Elite Interior Design",
+    street: "IDS Interiors",
     city: "Pune",
     state: "Maharashtra",
     zip: "411004",
@@ -23,11 +23,11 @@ export const siteConfig = {
   social: {
     twitter: `@${domain}`,
     instagram: {
-      profile: `https://www.instagram.com/eliteinteriorsindia?igsi=MTMyZXNic2Nwcjlydw==`,
+      profile: `https://www.instagram.com/ar_ishwarsuthar?utm_source=ig_web_button_share_sheet&igsi=ZDNlZDc0MzIxNw==`,
       posts: [
-        "https://www.instagram.com/reel/DaXwN1ZBD2U/embed",
-        "https://www.instagram.com/reel/DY9khlRgW-M/embed",
-        "https://www.instagram.com/reel/DYo8t2XNAjq/embed",
+        "https://www.instagram.com/reel/ClY1SDIo6fO/embed",
+        "https://www.instagram.com/reel/DY95bsooPLE/embed",
+        "https://www.instagram.com/reel/DY95bsooPLE/embed",
       ],
     },
   },
